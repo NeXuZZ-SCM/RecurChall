@@ -1,0 +1,10 @@
+﻿.LabelCssClass {
+    display: block;
+    text-align: center;
+    width: 500px;
+    margin: 0px auto;
+    border-radius: 50px 50px 50px 50px;
+    color: white;
+    background: linear-gradient(90deg, rgba(0,116,255,1) 0%, rgba(0,185,255,1) 100%);
+    padding: 10px 20px;
+}
